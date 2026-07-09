@@ -14,6 +14,13 @@ This repository contains a production-ready data cleaning and automated quality 
 
 This pipeline ensures that messy, transactional log files are perfectly formatted, reliable, and ready for ingestion into business intelligence (BI) live reporting dashboards or down-stream SQL warehouses.
 
+(BEFORE) - SCREENSHOT ECOMMERCE DATASET MESSY DATA
+<img width="725" height="360" alt="Screenshot 2026-07-09 at 7 21 45 PM" src="https://github.com/user-attachments/assets/4fb17886-e390-417e-ad92-dfaae8aa52c3" />
+
+(AFTER) - SCREENSHOT ECOMMERCE DATASET CLEANED DATA   (FIT MOST COLUMNS IN SHOT, MORE COLUMNS ARE IN TOTAL FILE DOWNLOAD)
+<img width="725" height="360" alt="Screenshot 2026-07-09 at 7 21 45 PM copy" src="https://github.com/user-attachments/assets/1ad7f07b-0151-4bbe-8680-06aa315405ef" />
+
+
 🛠️ Data Quality Rules & Architecture
 The script processes raw transactional records and systematically handles data anomalies based on strict governance rules:
 
