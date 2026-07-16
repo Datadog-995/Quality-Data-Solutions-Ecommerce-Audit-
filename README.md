@@ -18,8 +18,7 @@ This pipeline ensures that messy, transactional log files are perfectly formatte
 <img width="725" height="360" alt="Screenshot 2026-07-09 at 7 21 45 PM" src="https://github.com/user-attachments/assets/4fb17886-e390-417e-ad92-dfaae8aa52c3" />
 
 (AFTER) - SCREENSHOT ECOMMERCE DATASET CLEANED DATA   (FIT MOST COLUMNS IN SHOT, MORE COLUMNS ARE IN TOTAL FILE DOWNLOAD)
-<img width="1972" height="348" alt="Screenshot 2026-07-09 at 11 48 53 PM" src="https://github.com/user-attachments/assets/80a4ba9f-e63e-4f1b-b1e7-97fad4fab2db" />
-
+![Screenshot](https://github.com/user-attachments/assets/80a4ba9f-e63e-4f1b-b1e7-97fad4fab2db)
 
 🛠️ Data Quality Rules & Architecture
 The script processes raw transactional records and systematically handles data anomalies based on strict governance rules:
