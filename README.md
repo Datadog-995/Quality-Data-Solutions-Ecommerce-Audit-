@@ -15,10 +15,11 @@ This repository contains a production-ready data cleaning and automated quality 
 This pipeline ensures that messy, transactional log files are perfectly formatted, reliable, and ready for ingestion into business intelligence (BI) live reporting dashboards or down-stream SQL warehouses.
 
 (BEFORE) - SCREENSHOT ECOMMERCE DATASET MESSY DATA
-<img width="725" height="360" alt="Screenshot 2026-07-09 at 7 21 45 PM" src="https://github.com/user-attachments/assets/4fb17886-e390-417e-ad92-dfaae8aa52c3" />
+<img width="474" height="88" alt="Screenshot 2026-07-19 at 7 54 53 PM" src="https://github.com/user-attachments/assets/4e1b6748-ac15-4b42-ad75-f87377f0690d" />
+
 
 (AFTER) - SCREENSHOT ECOMMERCE DATASET CLEANED DATA   (FIT MOST COLUMNS IN SHOT, MORE COLUMNS ARE IN TOTAL FILE DOWNLOAD)
-<img width="596" height="200" alt="Screenshot 2026-07-19 at 7 30 41 PM" src="https://github.com/user-attachments/assets/90119e34-9489-44c3-9f2a-7a36dd126cdd" />
+<img width="489" height="45" alt="Screenshot 2026-07-19 at 7 56 24 PM" src="https://github.com/user-attachments/assets/27e8048d-62dc-4bd7-9df8-344dc71a6430" />
 
 
 🛠️ Data Quality Rules & Architecture
